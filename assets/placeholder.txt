@@ -1,0 +1,12 @@
+nexus-drafting/
+ ├── index.html
+ ├── services.html
+ ├── projects.html
+ ├── about.html
+ ├── contact.html
+ ├── style.css
+ └── assets/
+      ├── hero-bg.jpg
+      ├── project1.jpg
+      ├── project2.jpg
+      ├── project3.jpg
